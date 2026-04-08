@@ -1,0 +1,2 @@
+Toto je testovaci subor pre prikaz upload.
+Obsah je ulozeny v repozitari ako pomocne data.
